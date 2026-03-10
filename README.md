@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-###### about me:
-Data Scientist trained at EBAC, with experience in practical projects involving data analysis and machine learning. I mainly use Python and SQL for data exploration, preprocessing, and modeling, applying techniques such as EDA, feature engineering, and predictive modeling with libraries like Scikit-learn and XGBoost. This GitHub contains projects developed during my studies and training, focused on turning data into insights and data-driven solutions.
+###### sobre mim:
+Cientista de Dados formado pela EBAC, com experiência em projetos práticos de análise de dados e machine learning. Utilizo principalmente Python e SQL para exploração, tratamento e modelagem de dados, aplicando técnicas de EDA, feature engineering e modelos preditivos com bibliotecas como Scikit-learn e XGBoost. Neste GitHub compartilho projetos desenvolvidos durante minha formação e estudos, focados em transformar dados em insights e soluções baseadas em dados.
 
 
  ### Main skills:
