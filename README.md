@@ -4,20 +4,37 @@
 Cientista de Dados formado pela EBAC, com experiência em projetos práticos de análise de dados e machine learning. Utilizo principalmente Python e SQL para exploração, tratamento e modelagem de dados, aplicando técnicas de EDA, feature engineering e modelos preditivos com bibliotecas como Scikit-learn e XGBoost. Neste GitHub compartilho projetos desenvolvidos durante minha formação e estudos, focados em transformar dados em insights e soluções baseadas em dados.
 
 
-### Detalhes
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zocolotto.zocolotto&"  />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zocolotto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-### Projetos
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zocolotto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zocolotto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zocolotto&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zocolotto.zocolotto&"  />
+</div>
 
-### Linguagens utilizadas
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zocolotto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zocolotto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zocolotto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-### Contatos
+###
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)
- 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zocolotto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zocolotto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
