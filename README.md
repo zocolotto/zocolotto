@@ -4,7 +4,7 @@
 Cientista de Dados formado pela EBAC, com experiência em projetos práticos de análise de dados e machine learning. Utilizo principalmente Python e SQL para exploração, tratamento e modelagem de dados, aplicando técnicas de EDA, feature engineering e modelos preditivos com bibliotecas como Scikit-learn e XGBoost. Neste GitHub compartilho projetos desenvolvidos durante minha formação e estudos, focados em transformar dados em insights e soluções baseadas em dados.
 
 
-### detalhes:
+### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zocolotto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
